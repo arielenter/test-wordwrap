@@ -1,9 +1,9 @@
 {
     "name": "arielenter/test-wordwrap",
     "description": "Provides methods that make testing text wordwrap easier.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dist": {
-        "url": "https://github.com/arielenter/test-wordwrap/archive/refs/tags/v1.0.0.tar.gz",
+        "url": "https://github.com/arielenter/test-wordwrap/archive/refs/tags/v1.0.1.tar.gz",
         "type": "tar"
     },
     "license": "GPL-3.0",
