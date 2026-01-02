@@ -15,7 +15,7 @@ trait TestWordwrap
      *
      * @param int    $maxLineLength  Max size a line can go until it has to be
      *                               wrapped.
-     * @param int    $indentation    Optional. Number of spaces every line,
+     * @param int    $indentWidth    Optional. Number of spaces every line,
      *                               wrapped or unwrapped, must start with.
      * @param string $startLinesWith Optional. After indentation, a string that
      *                               every line will start with.
